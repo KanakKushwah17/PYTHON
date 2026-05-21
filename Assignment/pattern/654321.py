@@ -1,0 +1,10 @@
+"""
+8.
+enter n6
+ 654321
+  65432
+   6543
+    654
+     65
+"""
+n=int(input("Enter the number: "))
