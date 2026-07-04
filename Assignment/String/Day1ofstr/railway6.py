@@ -16,18 +16,17 @@ Output:
 Valid PNR Number
 
 """
-PNR=input("Enter PNR: ")
+PNR = input("Enter PNR: ")
+valid = True
+if PNR[0]=='P' and PNR[1]=='N' and PNR[2]=='R' and len(PNR)==12:
+    valid = True
 
-valid=0
-if PNR[0]=='P' and PNR[1]=='N' and PNR[2]=='R':
-    if len(PNR)==12:
-        valid=1
-
-for i in range(3,len(PNR)):
-    if PNR[i]<'0' or PNR[i]>'9':
-                valid=0
-
-if valid==1:
-    print("Valid PNR Number")
+    for i in range(3, 12):
+        if PNR[i] < '0' or PNR[i] > '9':
+            valid = False
+    if valid==True:
+        print("Valid PNR Number")
+    else:
+        print("Not Valid PNR Number")
 else:
     print("Invalid PNR Number")

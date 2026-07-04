@@ -1,0 +1,1 @@
+from .for_doctor import add_doctor,display_doctor

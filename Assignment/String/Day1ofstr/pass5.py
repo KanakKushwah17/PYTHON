@@ -18,31 +18,23 @@ Input: Enter password: Python@45
 Output: Secure Password
 
 """
-password=input("Enter password: ")
-an=0
+password = input("Enter password: ")
 digit=0
-special=0
+spc=0
 space=0
+
 for i in range(len(password)):
     ch=password[i]
     if ch>='0' and ch<='9':
         digit+=1
-    elif ch>='a' and ch<='z':
-        an=an+1
-    elif ch == '@' or ch == '#' or ch == '$' or ch == '%' or ch == '&' or ch == '*':
-        special += 1
-    elif ch == " ":
-        space += 1
-if ((password[0] >= 'A' and password[0] <= 'Z') and
-    (password[len(password)-1] >= '0' and password[len(password)-1] <= '9') and
-    digit >= 2 and
-    special >= 1 and
-    space == 0 and
-    len(password) >= 8 and len(password) <= 15):
-
+    elif ch=='@' or ch=='#' or ch=='$'or ch=='&'or ch=='*' or ch=='%' or ch=='$':
+        spc=spc+1
+    elif ch==" ":
+        space=space+1
+if (len(password)>=8 and len(password)<=15) and (password[-1]>='0' and password[-1]<='9') and space==0 and digit>=2 and spc>=1 and (password[0]>='A' and  password[0]<='Z') :
     print("Secure Password")
-
 else:
-    print("Invalid Password")
+    print("Not Secure Password")
+
 
 

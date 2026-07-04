@@ -15,18 +15,10 @@ Output: Employee Short ID: AST
 '''
 
 name = input("Enter employee name: ")
-
-short = ""
-
+upper=" "
 for i in range(len(name)):
+    if i==0 or name[i-1]==' ':
+        short = ord(name[i])-32
+        upper=upper+chr(short)
 
-    if i == 0 or name[i-1] == " ":
-
-        if name[i] >= 'a' and name[i] <= 'z':
-
-            upper = ord(name[i]) - 32
-            short = short + chr(upper)
-
-
-
-print("Employee Short ID:", short)
+print("Employee short ID ",upper)

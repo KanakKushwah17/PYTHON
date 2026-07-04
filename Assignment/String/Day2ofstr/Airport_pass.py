@@ -63,18 +63,15 @@ Formatted Details:
 Business Class Passenger Seat B12
 '''
 
-details = input("Enter passenger details:\n")
-format = ""
-i = 0
-while i < len(details):
-    if details[i] >= "a" and details[i] <= "z":
-        if i == 0 or details[i - 1] == " ":
-            upper = ord(details[i]) - 32
-            format = format + chr(upper)
-        else:
-            format = format + details[i]
 
+details=input("Enter passenger details:")
+rev=" "
+i=0
+while i <len(details):
+    if details[i-1]==" " or i==0:
+        upper=ord(details[i])-32
+        rev=rev+(chr(upper))
     else:
-        format = format + details[i]
-    i += 1
-print("Formatted details :\n", format)   
+        rev=rev+details[i]
+    i+=1
+print(rev)

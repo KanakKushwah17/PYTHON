@@ -15,16 +15,13 @@ Consider only English alphabets for vowel/consonant counting
 Vowels: A, E, I, O, U
 """
 s=input("Enter student name: ").lower()
-count=0
-i=0
-while i<len(s):
-    if s[i].isalpha():
-        if s[i] == 'a' or s[i] == 'e' or s[i] == 'i' or s[i] == 'o' or s[i] == 'u':
-            pass
-        else:
-            count=count+1
+cons=0
+for i in s:
+    if i=='a' or i=='e' or i=='i' or i=='o' or i=='u' or i==' ':
+        pass
+    else:
+        cons+=1
 
-    i=i+1
-print("Total consonants: ",count)
+print("Total consonant ",cons)
 
 

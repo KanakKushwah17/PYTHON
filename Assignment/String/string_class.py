@@ -295,9 +295,177 @@ words=s.split()
 for word in words:
     print(word[::-1],end=" ")"""
 
-s=input("Enter the string ")
+"""s=input("Enter the string ")
 rev=s[::-1]
 rev2=rev.split()
 print(rev)
 print(rev2)
-print(" ".join(rev2[::-1]))
+print(" ".join(rev2[::-1]))"""
+
+#27/05/2026
+#REMOVE ELEMENT FROM LIST
+#REMOVE()
+"""a=[10,20,30,40,50]
+print(a)
+a.remove(10)
+print(a)"""
+"""a.remove(90)
+print(a)#ERROR
+"""
+
+#POP
+"""
+a=[10,20,30,40,50]
+a.pop()
+print(a)
+x=a.pop(1)
+print(a)
+a.pop(7)
+print(x)
+"""
+
+#clear
+"""a=[10,20,30,40,50]
+print(a)
+print(len(a))
+a.clear()
+print(a)
+print(len(a))
+"""
+#del keyword
+"""1.  a=[10,20,30,40,50]
+print(a)
+del a[1]
+print(a)"""
+
+"""
+2. a=[10,20,30,40,50]
+del a=[1:4]
+print(a)
+"""
+"""
+3. a=[10,20,30,40,50]
+print(a)
+del a
+print(a)#ERROR
+"""
+
+#REMOVING ELEMENT WHILE ITERATING
+"""a=[10,20,30,40,50]
+for i in a:
+    if i%2==0:
+        a.remove(i)
+print(a)"""
+
+"""a=[10,20,30,40,50]
+for i in a[ : ]:
+    if i%2==0:
+        a.remove(i)
+    print(a)"""
+
+"""a=[10,21,31,4,50]
+for i in a[ : ]:
+    if i%2==0:
+        a.remove(i)
+print(a)"""
+
+
+
+#REMOVE Element based on user input
+"""a=["kanak","avni","him","her"]
+name=input("Enter your name:")
+if name in a:
+    a.remove(name)
+else:
+    print("name not found")
+print(a)"""
+
+
+"""a=["kanak","avni","him","her"]
+b=a
+name=input("Enter your name:")
+if name in a:
+    a.remove(name)
+else:
+    print("name not found")
+print(a)
+print(b)"""
+
+#INDEX
+"""a=["kanak","avni","him","her"]
+print(a.index("him"))
+print(a.count("him1"))
+"""
+#COUNT
+"""a=["kanak","avni","him","her"]
+print(a.count("him"))
+
+b=[10,20,30,40,10]
+print(b.count(10))"""
+
+
+#SORT
+"""a=["kanak","avni","him","her"]
+a.sort()
+b=[10,90,30,60,50]
+b.sort()
+print(a)
+print(b)
+"""
+#rev sort
+"""a=[10,20,30,40,50]
+a.sort(reverse=True)
+b=[10,90,30,60,50]
+b.sort(reverse=True)
+print(a)
+print(b)"""
+
+"""a=["kanak","avni","him","her"]
+a.sort(key=len)
+print(a)
+"""
+"""a=[10,-8,-7,3,2,8,4]
+a.sort(key=abs)
+print(a)
+"""
+"""
+a=["kanak","avni","him","her"]
+a.sort(key=str.lower))
+print(a)"""
+
+#SORTED
+"""a=["kanak","avni","him","her"]
+b=sorted(a)
+print(a)
+print(b)
+"""
+
+"""a=[19,35,60,27]
+b=sorted(a)
+print(a)
+print(b)
+"""
+
+
+#Reverse
+"""a=[10,11,5,7,3]
+a.reverse()
+print(a)"""
+
+#copy()
+"""a=[10,11,2,344,63]
+b=a.copy()
+print(a)
+print(b)
+a[0]=99
+print(a)
+print(b)
+"""
+
+
+
+
+
+
+
+

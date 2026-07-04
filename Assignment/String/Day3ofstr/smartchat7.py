@@ -43,15 +43,14 @@ Output: Expanded Message: rrrssttttt
 Total Characters: 10
 '''
 
+s=input("enter String").lower()
+res=" "
+for i in s:
+    if i>='a' and i<='z':
+        res=res+i
+        prev=i
+    elif i>='0' and i<='9':
+        res=res+prev*(int(i)-1)
+print(res)
 
 
-message=input("Enter compressed message: ").lower()
-result=""
-for x in message:
-    if x.isalpha():
-        result=result+x
-        previous=x
-    elif x.isdigit():
-        result=result+previous*(int(x)-1)
-print("Expanded Message:",result)
-print("Total characters:",len(result))

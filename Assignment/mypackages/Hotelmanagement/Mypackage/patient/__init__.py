@@ -1,0 +1,1 @@
+from .for_patient import add_patient,display,search_patient 

@@ -8,10 +8,10 @@ Input: Enter product review: this product is really good Enter character to chec
 
 Output: Character 'o' occurs: 4 times
 """
-s=input("Enter product review: ")
-ch=input("Enter character to check: ")
+s=input("Enter string : ")
+word = input("Enter letter : ")
 count=0
 for i in s:
-    if ch==i:
-        count+=1
-print("Character",ch,"occurs",count,"times")
+    if i==word:
+        count=count+1
+print(count)

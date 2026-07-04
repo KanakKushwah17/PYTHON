@@ -20,31 +20,15 @@ Both Product Codes are Matching
 s1=input("Enter first product code: ")
 s2=input("Enter second product code: ")
 
-rev=""
-rev2=""
-
-for i in s1:
-
-    if i!=' ':
-
-        if i>='A' and i<='Z':
-            rev=rev+chr(ord(i)+32)
-
-        else:
-            rev=rev+i
-
-for i in s2:
-
-    if i!=' ':
-
-        if i>='A' and i<='Z':
-            rev2=rev2+chr(ord(i)+32)
-
-        else:
-            rev2=rev2+i
-
-if sorted(rev)==sorted(rev2):
-    print("Both Product Codes are Matching")
-
+new1=""
+new2=""
+for ch in s1:
+    if ch!= ' ':
+        new1=new1+ch
+for ch in s2:
+    if ch!='':
+        new2=new2+ch
+if sorted(new1)==sorted(new2):
+    print("Both products Codes are Matching ")
 else:
-    print("Product Codes are Not Matching")
+    print("Both products codes are not matching ")

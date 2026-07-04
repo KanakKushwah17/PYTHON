@@ -20,7 +20,6 @@ for i in range(1,num//2):
     if num%i==0:
        count=count+1
       
-
 if count>=2:
     print("Composite number ")
 else:

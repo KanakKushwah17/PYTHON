@@ -1,0 +1,23 @@
+"""class addition:
+    def set(self,a,b):
+        self.a=a
+        self.b=b
+
+    def add(self):
+        print("add called")
+        self.c=self.a +self.b
+    
+    def display(self):
+        return self.c
+
+a1=addition()
+a1.set(10,20)
+a1.add()
+
+result=a1.display()
+print(result)
+    
+"""
+
+
+

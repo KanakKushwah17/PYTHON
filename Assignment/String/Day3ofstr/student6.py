@@ -35,20 +35,4 @@ Output: Result: rty No Digits Found
 '''
 
 code=input("Enter registration code: ").lower()
-al=""
-d=""
 
-for c in code:
-    if c.isalpha():
-        if c in al:
-            continue
-        else:
-            al+=c
-    elif c.isdigit():
-        d+=c
-alfa="".join(sorted(al))
-dig="".join(sorted(d))
-if d=="":
-    print("Result",alfa,"No digit found")
-else:
-    print("Result",alfa+dig[::-1])

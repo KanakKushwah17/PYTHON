@@ -1,0 +1,34 @@
+'''92Check if two strings are pq-balanced. S1 = "pqqp", S2 = "qpqp" Example dependent on specific "pq-balanced" definition'''
+
+
+
+
+s1=input("Enter string 1")
+s2=input("enter string 2")
+
+countp1=0
+countp2=0
+countq1=0
+countq2=0
+
+for i in s1:
+    if i=="p":
+        countp1=countp1+1
+    elif i=="q":
+        countq1=countq1+1
+        
+for j in s2:
+    if j=="p":
+        countp2=countp2+1
+    elif j=="q":
+        countq2=countq2+1
+    
+if countp1==countp2 and countq1==countq2:
+    print("True p and q are balanced ")
+
+else:
+    print("Not balanced ")
+
+        
+    
+        

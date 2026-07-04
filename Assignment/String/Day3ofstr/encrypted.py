@@ -10,12 +10,11 @@ Input: Enter message: java is powerful
 Output: Encrypted Message: avaj si lufrewop
 """
 msg = input("Enter message: ")
+word=msg.split()
+res=""
+for i in word:
+    rev=i[: : -1]
+    res+=rev+ " "
+print("Encrypted message : ",res)
 
-words = msg.split()
-result = ""
 
-for i in words:
-    rev = i[::-1]
-    result = result + rev + " "
-
-print("Encrypted Message:", result.strip())

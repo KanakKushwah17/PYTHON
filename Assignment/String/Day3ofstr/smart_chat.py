@@ -13,8 +13,9 @@ Output: Cleaned Message: Java is easy
 
 """
 msg = input("Enter message: ")
+word=msg.split()
+new=" "
+for i in word:
+    new=new+i+" "
+print(new)
 
-words = msg.split()
-clean = " ".join(words)
-
-print("Cleaned Message:", clean)
