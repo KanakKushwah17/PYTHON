@@ -33,8 +33,7 @@ for i in range(n):
 
 print(num)
 
-for i in range(len(num)):
-    for j in range(len(num)):
-        if num[j]+num[i]==target:
+for i in range(n):
+    for j in range(n):
+        if num[i]+num[j]==target:
             print(i,j)
-            

@@ -34,17 +34,23 @@ n=int(input("Enter the number: "))
 num=[]
 for i in range(n):
     num.append(int(input("Enter the number: ")))
-
+new=[]
 flag=0
 for i in num:
-    count = 0
+    count=0
     for j in num:
-        if i == j:
-            count = count + 1
-
-    if count>1:
+        if i==j:
+            count=count+1
+    if count>=2:
         flag=1
+        break
 if flag==1:
     print("true")
 else:
     print("false")
+        
+            
+            
+            
+        
+        

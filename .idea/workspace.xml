@@ -1,0 +1,759 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce2eed50-9a5b-47fa-aef7-1e25907a5dc5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000043691506" />
+      <entry key="MS500" value="1.0212852817912577" />
+      <entry key="S2" value="1.3819617294014002" />
+      <entry key="S5" value="1.6804683662008761" />
+      <entry key="S10" value="1.8249050649625544" />
+      <entry key="S30" value="1.9378530464159018" />
+      <entry key="S60" value="1.969367198546141" />
+      <entry key="M2" value="2.0375881048364644" />
+      <entry key="M5" value="2.6709781576795013" />
+      <entry key="M10" value="3.9817587005344652" />
+      <entry key="M15" value="5.635348147696981" />
+      <entry key="M30" value="15.105164745963679" />
+      <entry key="H1" value="48.38571352398965" />
+      <entry key="H2" value="124.34758464281482" />
+      <entry key="H4" value="263.88991152316214" />
+      <entry key="D1" value="2093.5411754387765" />
+      <entry key="W1" value="8320.183469280199" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="9.929010424519882E-175" />
+      <entry key="S60" value="9.964441993669222E-88" />
+      <entry key="M2" value="3.156650528296704E-44" />
+      <entry key="M5" value="3.982042308852145E-18" />
+      <entry key="M10" value="2.056243015738302E-9" />
+      <entry key="M15" value="1.7406455449941795E-6" />
+      <entry key="M30" value="0.0016540379775830233" />
+      <entry key="H1" value="0.05611797049958416" />
+      <entry key="H2" value="0.3914574675882192" />
+      <entry key="H4" value="1.4559058447800282" />
+      <entry key="D1" value="16.65757530625667" />
+      <entry key="W1" value="69.79814938879115" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="8.429688609482429E-8" />
+      <entry key="MS500" value="0.043493600172768376" />
+      <entry key="S2" value="0.7090685417958672" />
+      <entry key="S5" value="1.310907631740514" />
+      <entry key="S10" value="1.6171112392290357" />
+      <entry key="S30" value="1.8626947832943725" />
+      <entry key="S60" value="1.9309907430703517" />
+      <entry key="M2" value="2.0180398097113077" />
+      <entry key="M5" value="2.6622981413049613" />
+      <entry key="M10" value="3.9763220303296567" />
+      <entry key="M15" value="5.630472471436014" />
+      <entry key="M30" value="15.099192308930192" />
+      <entry key="H1" value="48.427998118883764" />
+      <entry key="H2" value="124.72164967064411" />
+      <entry key="H4" value="265.3288715949315" />
+      <entry key="D1" value="2110.1804619212808" />
+      <entry key="W1" value="8389.970891340237" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3D1JGZLI7VWDdr8KDnqvFyrKfvy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01.executor": "Run",
+    "Python.01_repitive.executor": "Run",
+    "Python.01lengthofstring.executor": "Run",
+    "Python.02.executor": "Run",
+    "Python.03.executor": "Run",
+    "Python.04.executor": "Run",
+    "Python.05.executor": "Run",
+    "Python.06.executor": "Run",
+    "Python.07.executor": "Run",
+    "Python.08.executor": "Run",
+    "Python.09.executor": "Run",
+    "Python.10.executor": "Run",
+    "Python.11.executor": "Run",
+    "Python.12.executor": "Run",
+    "Python.13.executor": "Run",
+    "Python.14.executor": "Run",
+    "Python.15.executor": "Run",
+    "Python.16.executor": "Run",
+    "Python.17.executor": "Run",
+    "Python.18.executor": "Run",
+    "Python.19.executor": "Run",
+    "Python.20.executor": "Run",
+    "Python.21.executor": "Run",
+    "Python.22.executor": "Run",
+    "Python.23.executor": "Run",
+    "Python.24.executor": "Run",
+    "Python.25.executor": "Run",
+    "Python.26.executor": "Run",
+    "Python.27.executor": "Run",
+    "Python.28.executor": "Run",
+    "Python.29.executor": "Run",
+    "Python.30.executor": "Run",
+    "Python.31.executor": "Run",
+    "Python.32.executor": "Run",
+    "Python.33.executor": "Run",
+    "Python.34.executor": "Run",
+    "Python.35.executor": "Run",
+    "Python.36.executor": "Run",
+    "Python.37.executor": "Run",
+    "Python.38.executor": "Run",
+    "Python.39.executor": "Run",
+    "Python.40.executor": "Run",
+    "Python.41.executor": "Run",
+    "Python.42.executor": "Run",
+    "Python.43.executor": "Run",
+    "Python.44.executor": "Run",
+    "Python.45.executor": "Run",
+    "Python.46.executor": "Run",
+    "Python.47.executor": "Run",
+    "Python.48.executor": "Run",
+    "Python.49.executor": "Run",
+    "Python.50.executor": "Run",
+    "Python.51.executor": "Run",
+    "Python.52.executor": "Run",
+    "Python.54.executor": "Run",
+    "Python.57.executor": "Run",
+    "Python.58.executor": "Run",
+    "Python.59.executor": "Run",
+    "Python.60.executor": "Run",
+    "Python.62.executor": "Run",
+    "Python.63.executor": "Run",
+    "Python.65.executor": "Run",
+    "Python.67.executor": "Run",
+    "Python.68.executor": "Run",
+    "Python.69.executor": "Run",
+    "Python.70.executor": "Run",
+    "Python.71.executor": "Run",
+    "Python.72.executor": "Run",
+    "Python.73.executor": "Run",
+    "Python.74.executor": "Run",
+    "Python.75.executor": "Run",
+    "Python.76.executor": "Run",
+    "Python.77.executor": "Run",
+    "Python.78.executor": "Run",
+    "Python.79.executor": "Run",
+    "Python.80.executor": "Run",
+    "Python.81.executor": "Run",
+    "Python.82.executor": "Run",
+    "Python.83.executor": "Run",
+    "Python.84.executor": "Run",
+    "Python.85.executor": "Run",
+    "Python.86.executor": "Run",
+    "Python.87.executor": "Run",
+    "Python.89.executor": "Run",
+    "Python.90.executor": "Run",
+    "Python.91.executor": "Run",
+    "Python.AABAB2.executor": "Run",
+    "Python.ATMcounter.executor": "Run",
+    "Python.Airport_pass.executor": "Run",
+    "Python.Bank_coustomer1.executor": "Run",
+    "Python.Bikeservice.executor": "Run",
+    "Python.Classwork_dic.executor": "Run",
+    "Python.Classwork_tuples.executor": "Run",
+    "Python.Day4.executor": "Run",
+    "Python.Demo10.executor": "Run",
+    "Python.Digit_gap_consistency.executor": "Run",
+    "Python.Employee_id.executor": "Run",
+    "Python.Hollowdiamond.executor": "Run",
+    "Python.MUltilevelNestedloop.executor": "Run",
+    "Python.Modules_classwork.executor": "Run",
+    "Python.Named_tuple_classwork.executor": "Run",
+    "Python.Nested_classwork.executor": "Run",
+    "Python.Pattern 32.executor": "Run",
+    "Python.Pattern12.executor": "Run",
+    "Python.Pattern14.executor": "Run",
+    "Python.Pattern15.executor": "Run",
+    "Python.Pattern16.executor": "Run",
+    "Python.Pattern18.executor": "Run",
+    "Python.Pattern2.executor": "Run",
+    "Python.Pattern20.executor": "Run",
+    "Python.Pattern21.executor": "Run",
+    "Python.Pattern22.executor": "Run",
+    "Python.Pattern23.executor": "Run",
+    "Python.Pattern24.executor": "Run",
+    "Python.Pattern25.executor": "Run",
+    "Python.Pattern26.executor": "Run",
+    "Python.Pattern27.executor": "Run",
+    "Python.Pattern28.executor": "Run",
+    "Python.Pattern29.executor": "Run",
+    "Python.Pattern3.executor": "Run",
+    "Python.Pattern30.executor": "Run",
+    "Python.Pattern31.executor": "Run",
+    "Python.Pattern33.executor": "Run",
+    "Python.Pattern34.executor": "Run",
+    "Python.Pattern35.executor": "Run",
+    "Python.Pattern36.executor": "Run",
+    "Python.Pattern37.executor": "Run",
+    "Python.Pattern38.executor": "Run",
+    "Python.Pattern39.executor": "Run",
+    "Python.Pattern40.executor": "Run",
+    "Python.Pattern41.executor": "Run",
+    "Python.Pattern42.executor": "Run",
+    "Python.Pattern45.executor": "Run",
+    "Python.Pattern5.executor": "Run",
+    "Python.Pattern7.executor": "Run",
+    "Python.Pyhtonproject1quiz.executor": "Run",
+    "Python.Remove_special_char.executor": "Run",
+    "Python.Restaurant.executor": "Run",
+    "Python.Reverse_word_letter.executor": "Run",
+    "Python.Space2.executor": "Run",
+    "Python.Strictlyinc.executor": "Run",
+    "Python.Toolkit.executor": "Run",
+    "Python.Unique_char5.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.ababab.executor": "Run",
+    "Python.alternate.executor": "Run",
+    "Python.binary10.executor": "Run",
+    "Python.cabinprime.executor": "Run",
+    "Python.charoccur3.executor": "Run",
+    "Python.class-ass.executor": "Run",
+    "Python.class-work.executor": "Run",
+    "Python.classwork.executor": "Run",
+    "Python.classwork_function.executor": "Run",
+    "Python.classwork_set.executor": "Run",
+    "Python.day2q1.executor": "Run",
+    "Python.digitgap.executor": "Run",
+    "Python.divisblerange9.executor": "Run",
+    "Python.employeeId4.executor": "Run",
+    "Python.encrypted.executor": "Run",
+    "Python.first_non_repitivechar.executor": "Run",
+    "Python.isprimenext.executor": "Run",
+    "Python.lifemodeoper.executor": "Run",
+    "Python.lockerprime.executor": "Run",
+    "Python.logic2.executor": "Run",
+    "Python.occuranceword6.executor": "Run",
+    "Python.paattern48.executor": "Run",
+    "Python.palindrome5.executor": "Run",
+    "Python.pass5.executor": "Run",
+    "Python.pattern1.executor": "Run",
+    "Python.pattern10.executor": "Run",
+    "Python.pattern10w.executor": "Run",
+    "Python.pattern11.executor": "Run",
+    "Python.pattern122333.executor": "Run",
+    "Python.pattern12w.executor": "Run",
+    "Python.pattern13.executor": "Run",
+    "Python.pattern13w.executor": "Run",
+    "Python.pattern15w.executor": "Run",
+    "Python.pattern17.executor": "Run",
+    "Python.pattern18w.executor": "Run",
+    "Python.pattern19.executor": "Run",
+    "Python.pattern20w.executor": "Run",
+    "Python.pattern27w.executor": "Run",
+    "Python.pattern28w.executor": "Run",
+    "Python.pattern4.executor": "Run",
+    "Python.pattern43.executor": "Run",
+    "Python.pattern44.executor": "Run",
+    "Python.pattern46.executor": "Run",
+    "Python.pattern47.executor": "Run",
+    "Python.pattern49.executor": "Run",
+    "Python.pattern50.executor": "Run",
+    "Python.pattern51.executor": "Run",
+    "Python.pattern52.executor": "Run",
+    "Python.pattern53.executor": "Run",
+    "Python.pattern54.executor": "Run",
+    "Python.pattern55.executor": "Run",
+    "Python.pattern56.executor": "Run",
+    "Python.pattern57.executor": "Run",
+    "Python.pattern58.executor": "Run",
+    "Python.pattern59.executor": "Run",
+    "Python.pattern6.executor": "Run",
+    "Python.pattern60.executor": "Run",
+    "Python.pattern61.executor": "Run",
+    "Python.pattern62.executor": "Run",
+    "Python.pattern63.executor": "Run",
+    "Python.pattern64.executor": "Run",
+    "Python.pattern65.executor": "Run",
+    "Python.pattern66.executor": "Run",
+    "Python.pattern67.executor": "Run",
+    "Python.pattern69.executor": "Run",
+    "Python.pattern70.executor": "Run",
+    "Python.pattern71.executor": "Run",
+    "Python.pattern72.executor": "Run",
+    "Python.pattern73.executor": "Run",
+    "Python.pattern74.executor": "Run",
+    "Python.pattern75.executor": "Run",
+    "Python.pattern76.executor": "Run",
+    "Python.pattern77.executor": "Run",
+    "Python.pattern78.executor": "Run",
+    "Python.pattern79.executor": "Run",
+    "Python.pattern7w.executor": "Run",
+    "Python.pattern8.executor": "Run",
+    "Python.pattern80.executor": "Run",
+    "Python.pattern81.executor": "Run",
+    "Python.pattern82.executor": "Run",
+    "Python.pattern83.executor": "Run",
+    "Python.pattern84.executor": "Run",
+    "Python.pattern85.executor": "Run",
+    "Python.pattern86.executor": "Run",
+    "Python.pattern87.executor": "Run",
+    "Python.pattern89.executor": "Run",
+    "Python.pattern8w.executor": "Run",
+    "Python.pattern9.executor": "Run",
+    "Python.patternw1.executor": "Run",
+    "Python.patternw17.executor": "Run",
+    "Python.patternw2.executor": "Run",
+    "Python.patternw21.executor": "Run",
+    "Python.patternw22.executor": "Run",
+    "Python.patternw23.executor": "Run",
+    "Python.patternw24.executor": "Run",
+    "Python.patternw25.executor": "Run",
+    "Python.patternw26.executor": "Run",
+    "Python.patternw29.executor": "Run",
+    "Python.patternw3.executor": "Run",
+    "Python.patternw30.executor": "Run",
+    "Python.patternw4.executor": "Run",
+    "Python.patternw5.executor": "Run",
+    "Python.patternw6.executor": "Run",
+    "Python.perfectnum.executor": "Run",
+    "Python.phone2.executor": "Run",
+    "Python.print16w.executor": "Run",
+    "Python.print68.executor": "Run",
+    "Python.prodveri6.executor": "Run",
+    "Python.q12.executor": "Run",
+    "Python.q13.executor": "Run",
+    "Python.q14.executor": "Run",
+    "Python.q15.executor": "Run",
+    "Python.q16.executor": "Run",
+    "Python.q17.executor": "Run",
+    "Python.railway6.executor": "Run",
+    "Python.removeduplicate7.executor": "Run",
+    "Python.rev54321.executor": "Run",
+    "Python.shortestword.executor": "Run",
+    "Python.smart_chat.executor": "Run",
+    "Python.smartchat7.executor": "Run",
+    "Python.smartcity.executor": "Run",
+    "Python.smarttext.executor": "Run",
+    "Python.sqr_cube.executor": "Run",
+    "Python.stability.executor": "Run",
+    "Python.string class.executor": "Run",
+    "Python.string_class.executor": "Run",
+    "Python.suminteger.executor": "Run",
+    "Python.survivalgame.executor": "Run",
+    "Python.triangleinverted.executor": "Run",
+    "Python.tripleprime.executor": "Run",
+    "Python.twohalves.executor": "Run",
+    "Python.upper.executor": "Run",
+    "Python.username1.executor": "Run",
+    "Python.vehicle7.executor": "Run",
+    "Python.vowel1.executor": "Run",
+    "Python.vowels4.executor": "Run",
+    "Python.words3.executor": "Run",
+    "Python.zero.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "C:/PYTHON/Assignment/String",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\PYTHON\Assignment\String" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PYTHON\Assignment" />
+      <recent name="C:\PYTHON\Assignment\mypackages" />
+      <recent name="C:\PYTHON\Assignment\dictionary\Day2" />
+      <recent name="C:\PYTHON\Assignment\List\List150q" />
+      <recent name="C:\PYTHON\Assignment\List" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce2eed50-9a5b-47fa-aef7-1e25907a5dc5" name="Changes" comment="" />
+      <created>1777443548102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1777443548102</updated>
+      <workItem from="1777443549600" duration="651000" />
+      <workItem from="1777471312683" duration="3428000" />
+      <workItem from="1777478662959" duration="1531000" />
+      <workItem from="1777509289190" duration="7097000" />
+      <workItem from="1777521622234" duration="6100000" />
+      <workItem from="1777545393613" duration="8451000" />
+      <workItem from="1777640155332" duration="117000" />
+      <workItem from="1777643632690" duration="25000" />
+      <workItem from="1777829321085" duration="135000" />
+      <workItem from="1777988779817" duration="199000" />
+      <workItem from="1777989131019" duration="148000" />
+      <workItem from="1777991635041" duration="904000" />
+      <workItem from="1778065342613" duration="3404000" />
+      <workItem from="1778299303088" duration="2500000" />
+      <workItem from="1778317213463" duration="9344000" />
+      <workItem from="1778338086732" duration="775000" />
+      <workItem from="1778347007577" duration="554000" />
+      <workItem from="1778499315063" duration="3202000" />
+      <workItem from="1778507527406" duration="10984000" />
+      <workItem from="1778548065391" duration="440000" />
+      <workItem from="1778549317297" duration="4498000" />
+      <workItem from="1778559043730" duration="4087000" />
+      <workItem from="1778573958148" duration="2580000" />
+      <workItem from="1778579400362" duration="4531000" />
+      <workItem from="1778674455854" duration="6267000" />
+      <workItem from="1778686782071" duration="10043000" />
+      <workItem from="1778723004115" duration="4299000" />
+      <workItem from="1778758504105" duration="953000" />
+      <workItem from="1778855799637" duration="11417000" />
+      <workItem from="1778896103961" duration="4813000" />
+      <workItem from="1778932055707" duration="10907000" />
+      <workItem from="1778947249297" duration="4007000" />
+      <workItem from="1778951928601" duration="9620000" />
+      <workItem from="1778983901062" duration="3640000" />
+      <workItem from="1779006924630" duration="3203000" />
+      <workItem from="1779017671219" duration="9544000" />
+      <workItem from="1779040161808" duration="1914000" />
+      <workItem from="1779107823911" duration="17608000" />
+      <workItem from="1779128681732" duration="721000" />
+      <workItem from="1779151919759" duration="4241000" />
+      <workItem from="1779199970571" duration="3726000" />
+      <workItem from="1779206579343" duration="6241000" />
+      <workItem from="1779267444754" duration="1575000" />
+      <workItem from="1779278788129" duration="757000" />
+      <workItem from="1779292927041" duration="13356000" />
+      <workItem from="1779324922870" duration="8280000" />
+      <workItem from="1779341069739" duration="2162000" />
+      <workItem from="1779353771067" duration="2414000" />
+      <workItem from="1779379486973" duration="7738000" />
+      <workItem from="1779407543221" duration="5202000" />
+      <workItem from="1779424023574" duration="4344000" />
+      <workItem from="1779444365602" duration="4855000" />
+      <workItem from="1779457141138" duration="5566000" />
+      <workItem from="1779467501567" duration="5460000" />
+      <workItem from="1779497818040" duration="3644000" />
+      <workItem from="1779509227530" duration="6248000" />
+      <workItem from="1779525131044" duration="5049000" />
+      <workItem from="1779544157425" duration="5891000" />
+      <workItem from="1779601916503" duration="2141000" />
+      <workItem from="1779618119359" duration="13355000" />
+      <workItem from="1779641125354" duration="6272000" />
+      <workItem from="1779681860343" duration="220000" />
+      <workItem from="1779682862548" duration="148000" />
+      <workItem from="1779768270404" duration="1458000" />
+      <workItem from="1779770054944" duration="7794000" />
+      <workItem from="1779780799563" duration="6412000" />
+      <workItem from="1779794515875" duration="2518000" />
+      <workItem from="1779802258400" duration="3642000" />
+      <workItem from="1779812474615" duration="7697000" />
+      <workItem from="1779854973383" duration="7109000" />
+      <workItem from="1779868075211" duration="28115000" />
+      <workItem from="1779941901922" duration="7684000" />
+      <workItem from="1779957130486" duration="8594000" />
+      <workItem from="1779976271033" duration="4411000" />
+      <workItem from="1780027239857" duration="53000" />
+      <workItem from="1780027317560" duration="29000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PYTHON$02.coverage" NAME="02 Coverage Results" MODIFIED="1779971032091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/List/01DAY" />
+    <SUITE FILE_PATH="coverage/PYTHON$63.coverage" NAME="63 Coverage Results" MODIFIED="1779911404454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$17.coverage" NAME="17 Coverage Results" MODIFIED="1779803491094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern78.coverage" NAME="pattern78 Coverage Results" MODIFIED="1779114471705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$paattern48.coverage" NAME="paattern48 Coverage Results" MODIFIED="1778951682885" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern18w.coverage" NAME="pattern18w Coverage Results" MODIFIED="1779209152846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$upper.coverage" NAME="upper Coverage Results" MODIFIED="1779774932065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/List" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern17.coverage" NAME="pattern17 Coverage Results" MODIFIED="1778693105345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw26.coverage" NAME="patternw26 Coverage Results" MODIFIED="1779210889684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$suminteger.coverage" NAME="suminteger Coverage Results" MODIFIED="1778574483760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$smartcity.coverage" NAME="smartcity Coverage Results" MODIFIED="1779330598587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day2ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$35.coverage" NAME="35 Coverage Results" MODIFIED="1779881051428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$30.coverage" NAME="30 Coverage Results" MODIFIED="1779872185697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern22.coverage" NAME="Pattern22 Coverage Results" MODIFIED="1778723596738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$encrypted.coverage" NAME="encrypted Coverage Results" MODIFIED="1779518966302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day3ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern27w.coverage" NAME="pattern27w Coverage Results" MODIFIED="1779210959123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$rev54321.coverage" NAME="rev54321 Coverage Results" MODIFIED="1778319233034" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern14.coverage" NAME="Pattern14 Coverage Results" MODIFIED="1778689141404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$Space2.coverage" NAME="Space2 Coverage Results" MODIFIED="1779305533681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String" />
+    <SUITE FILE_PATH="coverage/PYTHON$73.coverage" NAME="73 Coverage Results" MODIFIED="1779968254031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$triangleinverted.coverage" NAME="triangleinverted Coverage Results" MODIFIED="1778584815125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern37.coverage" NAME="Pattern37 Coverage Results" MODIFIED="1778865863685" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$binary10.coverage" NAME="binary10 Coverage Results" MODIFIED="1778575450091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$20.coverage" NAME="20 Coverage Results" MODIFIED="1779812830702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw4.coverage" NAME="patternw4 Coverage Results" MODIFIED="1779128506063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern10.coverage" NAME="pattern10 Coverage Results" MODIFIED="1778680795506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern81.coverage" NAME="pattern81 Coverage Results" MODIFIED="1779117411169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$07.coverage" NAME="07 Coverage Results" MODIFIED="1779782211570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern63.coverage" NAME="pattern63 Coverage Results" MODIFIED="1779007727838" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$lockerprime.coverage" NAME="lockerprime Coverage Results" MODIFIED="1777480139608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$25.coverage" NAME="25 Coverage Results" MODIFIED="1779815742005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$Unique_char5.coverage" NAME="Unique_char5 Coverage Results" MODIFIED="1779387003392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day4ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern86.coverage" NAME="pattern86 Coverage Results" MODIFIED="1779122836823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$37.coverage" NAME="37 Coverage Results" MODIFIED="1779882140315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$isprimenext.coverage" NAME="isprimenext Coverage Results" MODIFIED="1777600038620" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern24.coverage" NAME="Pattern24 Coverage Results" MODIFIED="1778723753162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern27.coverage" NAME="Pattern27 Coverage Results" MODIFIED="1778725438356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern71.coverage" NAME="pattern71 Coverage Results" MODIFIED="1779023566278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern43.coverage" NAME="pattern43 Coverage Results" MODIFIED="1778900545560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$divisblerange9.coverage" NAME="divisblerange9 Coverage Results" MODIFIED="1778500883384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$09.coverage" NAME="09 Coverage Results" MODIFIED="1779784770501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$stability.coverage" NAME="stability Coverage Results" MODIFIED="1778549658591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$58.coverage" NAME="58 Coverage Results" MODIFIED="1779910545359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$15.coverage" NAME="15 Coverage Results" MODIFIED="1779802446339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$Strictlyinc.coverage" NAME="Strictlyinc Coverage Results" MODIFIED="1778550259760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$12.coverage" NAME="12 Coverage Results" MODIFIED="1779796095697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern76.coverage" NAME="pattern76 Coverage Results" MODIFIED="1779027492845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern73.coverage" NAME="pattern73 Coverage Results" MODIFIED="1779024674954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$lifemodeoper.coverage" NAME="lifemodeoper Coverage Results" MODIFIED="1777599624766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw2.coverage" NAME="patternw2 Coverage Results" MODIFIED="1779128132225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$04.coverage" NAME="04 Coverage Results" MODIFIED="1779978330397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/List/01DAY" />
+    <SUITE FILE_PATH="coverage/PYTHON$phone2.coverage" NAME="phone2 Coverage Results" MODIFIED="1779470459202" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day2ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$vehicle7.coverage" NAME="vehicle7 Coverage Results" MODIFIED="1779463586244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day1ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$10.coverage" NAME="10 Coverage Results" MODIFIED="1779794892204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern9.coverage" NAME="pattern9 Coverage Results" MODIFIED="1778680641956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern65.coverage" NAME="pattern65 Coverage Results" MODIFIED="1779020211857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern29.coverage" NAME="Pattern29 Coverage Results" MODIFIED="1778727218336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$45.coverage" NAME="45 Coverage Results" MODIFIED="1779900965026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern30.coverage" NAME="Pattern30 Coverage Results" MODIFIED="1778727400412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern35.coverage" NAME="Pattern35 Coverage Results" MODIFIED="1778858920679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$40.coverage" NAME="40 Coverage Results" MODIFIED="1779887665895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$sqr_cube.coverage" NAME="sqr_cube Coverage Results" MODIFIED="1778574785205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern51.coverage" NAME="pattern51 Coverage Results" MODIFIED="1778960146235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$vowels4.coverage" NAME="vowels4 Coverage Results" MODIFIED="1779355206437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day1ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$60.coverage" NAME="60 Coverage Results" MODIFIED="1779910863038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$survivalgame.coverage" NAME="survivalgame Coverage Results" MODIFIED="1778338521627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$51.coverage" NAME="51 Coverage Results" MODIFIED="1779903853154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern20.coverage" NAME="Pattern20 Coverage Results" MODIFIED="1778723213376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$32.coverage" NAME="32 Coverage Results" MODIFIED="1779873502017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw23.coverage" NAME="patternw23 Coverage Results" MODIFIED="1779210429976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$47.coverage" NAME="47 Coverage Results" MODIFIED="1779902841802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$Restaurant.coverage" NAME="Restaurant Coverage Results" MODIFIED="1779534159630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project" />
+    <SUITE FILE_PATH="coverage/PYTHON$38.coverage" NAME="38 Coverage Results" MODIFIED="1779882719298" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern7w.coverage" NAME="pattern7w Coverage Results" MODIFIED="1779153469653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$29.coverage" NAME="29 Coverage Results" MODIFIED="1779871924230" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$50.coverage" NAME="50 Coverage Results" MODIFIED="1779903800747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern70.coverage" NAME="pattern70 Coverage Results" MODIFIED="1779023385275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$vowel1.coverage" NAME="vowel1 Coverage Results" MODIFIED="1779278903909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw29.coverage" NAME="patternw29 Coverage Results" MODIFIED="1779211086131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$01lengthofstring.coverage" NAME="01lengthofstring Coverage Results" MODIFIED="1779544249947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern52.coverage" NAME="pattern52 Coverage Results" MODIFIED="1778961000364" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$19.coverage" NAME="19 Coverage Results" MODIFIED="1779812768345" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$48.coverage" NAME="48 Coverage Results" MODIFIED="1779903460456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$13.coverage" NAME="13 Coverage Results" MODIFIED="1779796280415" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern26.coverage" NAME="Pattern26 Coverage Results" MODIFIED="1778724836319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$smarttext.coverage" NAME="smarttext Coverage Results" MODIFIED="1779341508668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day3ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern8w.coverage" NAME="pattern8w Coverage Results" MODIFIED="1779153789540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$employeeId4.coverage" NAME="employeeId4 Coverage Results" MODIFIED="1779328477529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day2ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern3.coverage" NAME="Pattern3 Coverage Results" MODIFIED="1778679841841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern8.coverage" NAME="pattern8 Coverage Results" MODIFIED="1778680563730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern83.coverage" NAME="pattern83 Coverage Results" MODIFIED="1779120379340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern74.coverage" NAME="pattern74 Coverage Results" MODIFIED="1779024808296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$ababab.coverage" NAME="ababab Coverage Results" MODIFIED="1778576162634" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern80.coverage" NAME="pattern80 Coverage Results" MODIFIED="1779115839500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern39.coverage" NAME="Pattern39 Coverage Results" MODIFIED="1778866119547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern49.coverage" NAME="pattern49 Coverage Results" MODIFIED="1778954195925" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$03.coverage" NAME="03 Coverage Results" MODIFIED="1779978562678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/List/01DAY" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern45.coverage" NAME="Pattern45 Coverage Results" MODIFIED="1778933581947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern55.coverage" NAME="pattern55 Coverage Results" MODIFIED="1778961892964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern36.coverage" NAME="Pattern36 Coverage Results" MODIFIED="1778859084306" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$railway6.coverage" NAME="railway6 Coverage Results" MODIFIED="1779461825124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day1ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$class_ass.coverage" NAME="class-ass Coverage Results" MODIFIED="1779947522446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/List" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern58.coverage" NAME="pattern58 Coverage Results" MODIFIED="1778962323242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$username1.coverage" NAME="username1 Coverage Results" MODIFIED="1779327247743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day2ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$occuranceword6.coverage" NAME="occuranceword6 Coverage Results" MODIFIED="1779408452842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day4ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$smart_chat.coverage" NAME="smart_chat Coverage Results" MODIFIED="1779519083624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day3ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$41.coverage" NAME="41 Coverage Results" MODIFIED="1779896762859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern61.coverage" NAME="pattern61 Coverage Results" MODIFIED="1778987560409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern42.coverage" NAME="Pattern42 Coverage Results" MODIFIED="1778900156199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern23.coverage" NAME="Pattern23 Coverage Results" MODIFIED="1778723685499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$16.coverage" NAME="16 Coverage Results" MODIFIED="1779803249959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw6.coverage" NAME="patternw6 Coverage Results" MODIFIED="1779152820203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$22.coverage" NAME="22 Coverage Results" MODIFIED="1779813738652" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$AABAB2.coverage" NAME="AABAB2 Coverage Results" MODIFIED="1778576006565" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern77.coverage" NAME="pattern77 Coverage Results" MODIFIED="1779041674721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$shortestword.coverage" NAME="shortestword Coverage Results" MODIFIED="1779385666941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day4ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$57.coverage" NAME="57 Coverage Results" MODIFIED="1779909620859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$alternate.coverage" NAME="alternate Coverage Results" MODIFIED="1777602724767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$print68.coverage" NAME="print68 Coverage Results" MODIFIED="1779022207918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern15w.coverage" NAME="pattern15w Coverage Results" MODIFIED="1779203160935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern28w.coverage" NAME="pattern28w Coverage Results" MODIFIED="1779211046615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$Remove_special_char.coverage" NAME="Remove_special_char Coverage Results" MODIFIED="1779380049498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day4ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$08.coverage" NAME="08 Coverage Results" MODIFIED="1779783130440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern41.coverage" NAME="Pattern41 Coverage Results" MODIFIED="1778898744086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$72.coverage" NAME="72 Coverage Results" MODIFIED="1779967419592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$11.coverage" NAME="11 Coverage Results" MODIFIED="1779795176757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$cabinprime.coverage" NAME="cabinprime Coverage Results" MODIFIED="1777525917378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern11.coverage" NAME="pattern11 Coverage Results" MODIFIED="1779154952987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$prodveri6.coverage" NAME="prodveri6 Coverage Results" MODIFIED="1779473116094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day2ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern69.coverage" NAME="pattern69 Coverage Results" MODIFIED="1779022473940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw3.coverage" NAME="patternw3 Coverage Results" MODIFIED="1779128191769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$tripleprime.coverage" NAME="tripleprime Coverage Results" MODIFIED="1777479349859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern87.coverage" NAME="pattern87 Coverage Results" MODIFIED="1779123056561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw17.coverage" NAME="patternw17 Coverage Results" MODIFIED="1779208213568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$26.coverage" NAME="26 Coverage Results" MODIFIED="1779870740144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern82.coverage" NAME="pattern82 Coverage Results" MODIFIED="1779119653004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$44.coverage" NAME="44 Coverage Results" MODIFIED="1779899070718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern7.coverage" NAME="Pattern7 Coverage Results" MODIFIED="1778680463400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$string_class.coverage" NAME="string_class Coverage Results" MODIFIED="1779860559692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern2.coverage" NAME="Pattern2 Coverage Results" MODIFIED="1778675841968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern44.coverage" NAME="pattern44 Coverage Results" MODIFIED="1778900885477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$59.coverage" NAME="59 Coverage Results" MODIFIED="1779910564720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern79.coverage" NAME="pattern79 Coverage Results" MODIFIED="1779114422977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern64.coverage" NAME="pattern64 Coverage Results" MODIFIED="1779020228901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern6.coverage" NAME="pattern6 Coverage Results" MODIFIED="1778680224190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$36.coverage" NAME="36 Coverage Results" MODIFIED="1779881693360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$01.coverage" NAME="01 Coverage Results" MODIFIED="1779970282068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/List/01DAY" />
+    <SUITE FILE_PATH="coverage/PYTHON$18.coverage" NAME="18 Coverage Results" MODIFIED="1779806235382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$01_repitive.coverage" NAME="01_repitive Coverage Results" MODIFIED="1779413155942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day5ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern20w.coverage" NAME="pattern20w Coverage Results" MODIFIED="1779210131569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern1.coverage" NAME="pattern1 Coverage Results" MODIFIED="1778675730567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw30.coverage" NAME="patternw30 Coverage Results" MODIFIED="1779211135381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$54.coverage" NAME="54 Coverage Results" MODIFIED="1779908515094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern38.coverage" NAME="Pattern38 Coverage Results" MODIFIED="1778860547466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern10w.coverage" NAME="pattern10w Coverage Results" MODIFIED="1779154117475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern18.coverage" NAME="Pattern18 Coverage Results" MODIFIED="1778693806903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw25.coverage" NAME="patternw25 Coverage Results" MODIFIED="1779210814978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern89.coverage" NAME="pattern89 Coverage Results" MODIFIED="1779123352903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$31.coverage" NAME="31 Coverage Results" MODIFIED="1779872557728" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$twohalves.coverage" NAME="twohalves Coverage Results" MODIFIED="1778553425150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$Hollowdiamond.coverage" NAME="Hollowdiamond Coverage Results" MODIFIED="1779446003133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern33.coverage" NAME="Pattern33 Coverage Results" MODIFIED="1778858026123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw22.coverage" NAME="patternw22 Coverage Results" MODIFIED="1779210334116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern13w.coverage" NAME="pattern13w Coverage Results" MODIFIED="1779200315871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern62.coverage" NAME="pattern62 Coverage Results" MODIFIED="1778987764167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$Reverse_word_letter.coverage" NAME="Reverse_word_letter Coverage Results" MODIFIED="1779382295198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day4ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$words3.coverage" NAME="words3 Coverage Results" MODIFIED="1779471187014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day2ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern46.coverage" NAME="pattern46 Coverage Results" MODIFIED="1778948450878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$charoccur3.coverage" NAME="charoccur3 Coverage Results" MODIFIED="1779345856880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day1ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$62.coverage" NAME="62 Coverage Results" MODIFIED="1779911190344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$06.coverage" NAME="06 Coverage Results" MODIFIED="1779782039349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern67.coverage" NAME="pattern67 Coverage Results" MODIFIED="1779021564837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$21.coverage" NAME="21 Coverage Results" MODIFIED="1779813344229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern5.coverage" NAME="Pattern5 Coverage Results" MODIFIED="1778680116996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$70.coverage" NAME="70 Coverage Results" MODIFIED="1779912502584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern59.coverage" NAME="pattern59 Coverage Results" MODIFIED="1778986336469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern84.coverage" NAME="pattern84 Coverage Results" MODIFIED="1779121622302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern4.coverage" NAME="pattern4 Coverage Results" MODIFIED="1778679933706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$39.coverage" NAME="39 Coverage Results" MODIFIED="1779887538504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern13.coverage" NAME="pattern13 Coverage Results" MODIFIED="1778688658130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$28.coverage" NAME="28 Coverage Results" MODIFIED="1779871587016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$34.coverage" NAME="34 Coverage Results" MODIFIED="1779880515426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern54.coverage" NAME="pattern54 Coverage Results" MODIFIED="1778961754994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$ATMcounter.coverage" NAME="ATMcounter Coverage Results" MODIFIED="1777600076331" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern57.coverage" NAME="pattern57 Coverage Results" MODIFIED="1778985296019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$05.coverage" NAME="05 Coverage Results" MODIFIED="1779981207560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/List/01DAY" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern60.coverage" NAME="pattern60 Coverage Results" MODIFIED="1778987571564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern66.coverage" NAME="pattern66 Coverage Results" MODIFIED="1779020890678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$14.coverage" NAME="14 Coverage Results" MODIFIED="1779796435964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$23.coverage" NAME="23 Coverage Results" MODIFIED="1779814616175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$42.coverage" NAME="42 Coverage Results" MODIFIED="1779897988696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$Bikeservice.coverage" NAME="Bikeservice Coverage Results" MODIFIED="1777546101987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$perfectnum.coverage" NAME="perfectnum Coverage Results" MODIFIED="1777510867421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern85.coverage" NAME="pattern85 Coverage Results" MODIFIED="1779121853477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pass5.coverage" NAME="pass5 Coverage Results" MODIFIED="1779459289798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day1ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern25.coverage" NAME="Pattern25 Coverage Results" MODIFIED="1778724296978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern_32.coverage" NAME="Pattern 32 Coverage Results" MODIFIED="1778857756037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern16.coverage" NAME="Pattern16 Coverage Results" MODIFIED="1778690779794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$zero.coverage" NAME="zero Coverage Results" MODIFIED="1778550873831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw5.coverage" NAME="patternw5 Coverage Results" MODIFIED="1779128992518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$24.coverage" NAME="24 Coverage Results" MODIFIED="1779815541774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$digitgap.coverage" NAME="digitgap Coverage Results" MODIFIED="1778552822356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern56.coverage" NAME="pattern56 Coverage Results" MODIFIED="1778985247235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$Airport_pass.coverage" NAME="Airport_pass Coverage Results" MODIFIED="1779469090876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day2ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern75.coverage" NAME="pattern75 Coverage Results" MODIFIED="1779027190343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw24.coverage" NAME="patternw24 Coverage Results" MODIFIED="1779210672514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pyhtonproject1quiz.coverage" NAME="Pyhtonproject1quiz Coverage Results" MODIFIED="1778585166912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Project" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern15.coverage" NAME="Pattern15 Coverage Results" MODIFIED="1778690264009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$Toolkit.coverage" NAME="Toolkit Coverage Results" MODIFIED="1778068274567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/Match_case" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern12.coverage" NAME="Pattern12 Coverage Results" MODIFIED="1778687121093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern21.coverage" NAME="Pattern21 Coverage Results" MODIFIED="1778723454813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$print16w.coverage" NAME="print16w Coverage Results" MODIFIED="1779203700865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern19.coverage" NAME="pattern19 Coverage Results" MODIFIED="1778695769651" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$46.coverage" NAME="46 Coverage Results" MODIFIED="1779902659349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$49.coverage" NAME="49 Coverage Results" MODIFIED="1779903650310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$Digit_gap_consistency.coverage" NAME="Digit_gap_consistency Coverage Results" MODIFIED="1778551943400" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/loops" />
+    <SUITE FILE_PATH="coverage/PYTHON$class_work.coverage" NAME="class-work Coverage Results" MODIFIED="1779946732317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/List" />
+    <SUITE FILE_PATH="coverage/PYTHON$Bank_coustomer1.coverage" NAME="Bank_coustomer1 Coverage Results" MODIFIED="1779331755936" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day3ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$removeduplicate7.coverage" NAME="removeduplicate7 Coverage Results" MODIFIED="1779410171661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day4ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$74.coverage" NAME="74 Coverage Results" MODIFIED="1779968682872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern53.coverage" NAME="pattern53 Coverage Results" MODIFIED="1778961631407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern40.coverage" NAME="Pattern40 Coverage Results" MODIFIED="1778898344730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern50.coverage" NAME="pattern50 Coverage Results" MODIFIED="1778959091042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$palindrome5.coverage" NAME="palindrome5 Coverage Results" MODIFIED="1779471588132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day2ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$first_non_repitivechar.coverage" NAME="first_non_repitivechar Coverage Results" MODIFIED="1779383447040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day4ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern31.coverage" NAME="Pattern31 Coverage Results" MODIFIED="1778727482601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern47.coverage" NAME="pattern47 Coverage Results" MODIFIED="1778952408315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern28.coverage" NAME="Pattern28 Coverage Results" MODIFIED="1778727123135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON$Pattern34.coverage" NAME="Pattern34 Coverage Results" MODIFIED="1778858183593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$Employee_id.coverage" NAME="Employee_id Coverage Results" MODIFIED="1779498872065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day3ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$33.coverage" NAME="33 Coverage Results" MODIFIED="1779880200666" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$68.coverage" NAME="68 Coverage Results" MODIFIED="1779912227072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw21.coverage" NAME="patternw21 Coverage Results" MODIFIED="1779210237788" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern12w.coverage" NAME="pattern12w Coverage Results" MODIFIED="1779200047987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$27.coverage" NAME="27 Coverage Results" MODIFIED="1779871008892" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern122333.coverage" NAME="pattern122333 Coverage Results" MODIFIED="1778326296268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$pattern72.coverage" NAME="pattern72 Coverage Results" MODIFIED="1779024244984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+    <SUITE FILE_PATH="coverage/PYTHON$smartchat7.coverage" NAME="smartchat7 Coverage Results" MODIFIED="1779525150185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Day3ofstr" />
+    <SUITE FILE_PATH="coverage/PYTHON$52.coverage" NAME="52 Coverage Results" MODIFIED="1779905330174" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/String/Question150" />
+    <SUITE FILE_PATH="coverage/PYTHON$patternw1.coverage" NAME="patternw1 Coverage Results" MODIFIED="1779127391052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Assignment/pattern" />
+  </component>
+</project>

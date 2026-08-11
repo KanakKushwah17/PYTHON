@@ -23,13 +23,12 @@ n = 9 since there are 9 numbers, so all numbers are in the range [0,9]. 8 is the
 
 n=int(input("Enter the number: "))
 
-num=[]
+nums=[]
 for i in range(n):
-    num.append(int(input("Enter the number: ")))
-
-ne=[]
-for i in range(len(num)+1):
-    if i not in sorted(num):
-        ne=i
-print(ne)
-
+    nums.append(int(input("Enter the number: ")))
+nums=sorted(nums)
+ne=0
+for i in range(len(nums)+1):
+    if i not in nums:
+        print(i)
+        

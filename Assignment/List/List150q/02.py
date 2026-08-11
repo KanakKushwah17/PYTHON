@@ -52,8 +52,5 @@ new=[]
 for i in num:
     if i not in new:
         new.append(i)
+print(len(new))
 
-k = len(new)
-
-print("Unique elements:", new)
-print("k =", k)

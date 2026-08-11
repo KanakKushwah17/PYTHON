@@ -30,13 +30,15 @@ num=[]
 for i in range(n):
     num.append(int(input("Enter the number: ")))
 
-for i in num:
-    count = 0
-    for j in num:
-        if i == j:
-            count = count + 1
 
-    if count == 1:
+for i in num:
+    count=0
+    for j in num:
+        if i==j:
+            count=count+1
+    
+    if count==1:
         print(i)
+        
 
 

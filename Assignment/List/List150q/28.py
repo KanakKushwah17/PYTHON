@@ -22,16 +22,16 @@ n=int(input("Enter the number for nums: "))
 nums=[]
 for i in range(n):
     nums.append(int(input("Enter the number: ")))
-result=[]
-min=n
-count=0
-target=int(input("Enter the number for target: "))
-for i in range(len(nums)):
-    for j in range(i+1,len(nums)):
-        sub=nums[i:j+1]
-        if sum(sub)>=target:
-            if len(sub)<min:
-                min=len(sub)
-                result=sub
-print(result)
+
+target=int(input("Enter target number :"))
+min=len(nums)
+if sum(nums)<target:
+    min=0
+else:
+    for i in range(len(nums)):
+        for j in range(i,len(nums)):
+            sub = nums[i:j+1]
+            if sum(sub)>=target:
+                if len(sub)<min:
+                    min=len(sub)
 print(min)

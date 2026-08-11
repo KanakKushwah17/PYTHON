@@ -85,7 +85,7 @@ arr=[]
 for i in range(n):
     x=int(input("Enter element "))
     arr.append(x)
-print(arr)
+print(arr)    
 
 peakindex=-1
 for i in range(n):
@@ -205,3 +205,153 @@ print(a)
 print(a[0])
 print(a[2])
 print(a[2][1])"""
+
+
+
+"""n=int(input("Enter Numbers :   "))
+nums=[]
+for i in range(n):
+    list=int(input("Enter list : "))
+    nums.append(list)
+
+new=[]
+print(nums)
+
+for i in nums:
+    if i %2==0:
+        new.append(i)
+
+print(new)"""
+
+"""n=int(input("Enter Numbers :   "))
+nums=[]
+for i in range(n):
+    list=int(input("Enter list : "))
+    nums.append(list)
+
+print(nums)
+max=nums[0]
+new=0
+for i in nums:
+    if i>max:
+        max=i
+    
+print(max)"""
+
+"""n=int(input("Enter Numbers :   "))
+nums=[]
+for i in range(n):
+    list=int(input("Enter list : "))
+    nums.append(list)
+
+print(nums)
+min=nums[0]
+new=0
+for i in nums:
+    if i<min:
+        min=i
+    
+print(min)"""
+"""
+n=int(input("Enter Numbers :   "))
+nums=[]
+for i in range(n):
+    list=int(input("Enter list : "))
+    nums.append(list)
+
+print(nums)
+list1=[]
+for i in nums:
+    if i not in list1:
+        list1.append(i)
+print(list1)"""
+
+"""
+n=int(input("Enter number      : "))
+k=int(input("Enter Kth element : "))
+l=[]
+for i in range(1,n+1):
+    num=int(input("Enter number: "))
+    l.append(num)
+print(l)
+new=[]
+
+l.sort(reverse=True)
+
+print(l[k-1])
+"""
+"""n=int(input("Enter number      : "))
+l=[]
+for i in range(1,n+1):
+    num=int(input("Enter number: "))
+    l.append(num)
+print(l)
+new=[]
+for i in l[::-1]:
+    new.append(i)
+print(new)"""
+
+"""n=int(input("Enter number      : "))
+l=[]
+for i in range(1,n+1):
+    num=int(input("Enter number: "))
+    l.append(num)
+print(l)
+new=[]
+for i in l:
+    if i!=0:
+        new.append(i)
+
+for i in l:
+    if i==0:
+        new.append(i)
+print(new)
+
+"""
+
+"""n=int(input("Enter number      : "))
+l=[]
+for i in range(1,n+1):
+    num=int(input("Enter number: "))
+    l.append(num)
+print(l)
+
+peakelement=-1
+for i in range(n):
+    if i==0 and l[i]>=l[i+1]:
+        peakelement=i
+        break
+    elif i==n-1:
+         if l[i]>=l[i-1]:
+            peakelement=i
+            break
+    else:
+        if l[i]>=l[i-1] and l[i]>=l[i+1]:
+            peakelement=i
+            break
+if peakelement!=-1:
+    print("peak element is ",peakelement,"and value is ",l[peakelement])
+else:
+    print("No peak element found")
+    """
+    
+
+
+"""n=int(input("Enter number"))
+arr=[]
+for i in range(n):
+    x=int(input("Enter element "))
+    arr.append(x)
+print(arr)
+
+sum=0
+for i in range(n):
+    isleader=True
+    for j in range(i+1,n):
+        if arr[i]<=arr[j]:
+            isleader=False
+            break
+    if isleader:
+        sum=sum+arr[i]
+print(sum)"""
+

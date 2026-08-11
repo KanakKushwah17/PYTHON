@@ -1,0 +1,133 @@
+"""class addition:
+    def set(self,a,b):
+        self.a=a
+        self.b=b
+
+    def add(self):
+        print("add called")
+        self.c=self.a +self.b
+    
+    def display(self):
+        return self.c
+
+a1=addition()
+a1.set(10,20)
+a1.add()
+
+result=a1.display()
+print(result)
+    
+"""
+
+"""class product:
+    def __init__(self,ID,title,price):
+        self.__ID=ID
+        self.__title=title
+        self.__price=price
+    
+    @property
+    def ID(self):
+        return self.__ID
+    
+    @property
+    def title(self):
+        return self.__title
+    
+    @title.setter
+    def title(self,title):
+        self.__title=title
+        
+    
+    @property
+    def price(self):
+        return self.__price
+    
+    @price.setter
+    def price(self,price):
+        self.__price=price
+    
+P1=product(101,"IDK",20000)
+print(P1.ID)
+
+print(P1.title)
+P1.title="IK"
+print(P1.title)
+
+
+print(P1.price)
+P1.price=2
+print(P1.price)"""
+
+
+"""
+Question 1: Class aur Object
+
+Student naam ki class banao.
+
+Attributes:
+
+name
+age
+
+Object banao aur print karo.
+
+Expected output:
+
+Name: Kanak
+Age: 21"""
+
+"""class Student:
+    def __init__(self,name,age):
+        self.name=name
+        self.age=age
+   
+s1=Student("kanak",21)
+print("name  is : ",s1.name)
+print("age is : ",s1.age)        
+"""
+"""class Calculator:
+    def __init__(self,num1,num2):
+        self.num1=num1
+        self.num2=num2
+    def add(self):
+        addition=self.num1+self.num2
+        print("Addition : ",addition)
+
+    def subtract(self):
+        sub=self.num1-self.num2
+        print("Subtraction :",sub)
+        
+    def Multiply(self):
+        mult=self.num1*self.num2
+        print("Multiply :",mult)   
+    
+C1=Calculator(20,30)
+C1.add()
+C1.subtract()
+C1.Multiply()
+
+C2=Calculator(10,20)
+C2.add()
+C2.subtract()
+C2.Multiply()"""
+
+"""class Student:
+    college="Sage University "
+    def __init__(self,name,age):
+        self.name=name
+        self.age=age
+    
+    def display(self):
+        course = "B.Tech"
+        print("Name is ", self.name)
+        print("Age is ",self.age)
+        print("College name : ",self.college)
+        print("Course is  ",course)
+        
+S1=Student("Kanak",21)
+S1.display()
+
+S2=Student("Shri",18)
+S2.display()
+"""
+

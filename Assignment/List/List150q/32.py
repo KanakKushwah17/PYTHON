@@ -15,10 +15,18 @@ Example 2:
 Input: nums = [3,2,3,1,2,4,5,5,6], k = 4
 Output: 4
 """
-n=int(input("Enter number: "))
-l=[]
-for i in range(1,n+1):
-    num=int(input("Enter number: "))
-    l.append(num)
-print(l)
-new=[]
+
+n=int(input("Enter the number for nums: "))
+nums=[]
+for i in range(n):
+    nums.append(int(input("Enter the number: ")))
+    
+k=int(input("enter the kth element : "))
+for i in range(len(nums)):
+    for j in range(i + 1, len(nums)):
+        if nums[i] > nums[j]:
+            nums[i], nums[j] = nums[j], nums[i]
+
+print(nums[k - 1])
+    
+

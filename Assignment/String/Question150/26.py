@@ -17,7 +17,9 @@ for i in s:
 word.append(temp)
 print(word)
 
-
+index=0
 for item in word:
-    if item== found:
-        print(item)
+    if item == found:
+        print(index)
+        break
+    index += len(item) + 1

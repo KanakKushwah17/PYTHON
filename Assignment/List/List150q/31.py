@@ -28,6 +28,12 @@ for i in range(n):
     list=int(input("Enter element: "))
     l1.append(list)
 print(l1)
+max=0
+for i in range(len(l1)):
+    if l1[i]>l1[max]:
+        max=i
+print(max)
+
 
 
 
