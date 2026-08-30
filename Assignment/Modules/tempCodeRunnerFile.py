@@ -1,5 +1,10 @@
-from rich.traceback import install
 
-install()
+from pynput import keyboard
 
-x = 10 / 0
+def on_press(key):
+    print("Pressed:", key)
+
+listener = keyboard.Listener(on_press=on_press)
+
+listener.start()
+listener.join()
